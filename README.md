@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @8677091637
+- 👋 Hi, I’m SHIVAM SINGH
 - 👀 I’m interested in programing 
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on ...
